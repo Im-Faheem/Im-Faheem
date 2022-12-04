@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ImMohammedFaheem
 - 👀 I’m interested in Artifical Intelligence and Machine Learning.
-- 🌱 I’m currently learning Machine Learning Specialization From Stanford and DeepLeaning.Ai in Courseara.
+- 🌱 I Completed Machine Learning Specialization on Coursera Offered by Stanford and DeepLeaningAi.
+     You Can Check my Certificate of Completion in Certificates Directory.
 - 💞️ I’m looking to work on Machine Learning/Deep Learning projects.
 - 📫 You can reach me via:
 - Email : immohammedfaheem@gmail.com
