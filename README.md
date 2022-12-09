@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ImMohammedFaheem
+- 👋 Hi, I’m Mohammed Faheem
 - 👀 I’m interested in Artifical Intelligence and Machine Learning.
 - 🌱 I Completed Machine Learning Specialization on Coursera Offered by Stanford and DeepLeaningAi.
      You Can Check my Certificate of Completion in Certificates Directory.
