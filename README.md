@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohammed Faheem
 - 👀 I’m interested in Artifical Intelligence and Machine Learning.
-- 🌱 I Completed Machine Learning Specialization on Coursera Offered by Stanford University and DeepLeaningAi.
+- 👨‍🎓 I Completed Machine Learning Specialization on Coursera Offered by Stanford University and DeepLeaningAi.
      You Can Check my Certificate of Completion in Certificates Directory.
 - 💞️ I’m looking to work on Machine Learning/Deep Learning projects.
 - 📫 You can reach me via:
