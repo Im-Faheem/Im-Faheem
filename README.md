@@ -5,7 +5,7 @@
 - 💞️ I’m looking to work on Machine Learning/Deep Learning projects.
 - 📫 You can reach me via:
 - Email : immohammedfaheem@gmail.com
-- Linkedin : https://www.linkedin.com/in/im-faheem/
+- Linkedin : https://www.linkedin.com/in/thefaheem/
 - Twitter : https://twitter.com/Im__Faheem
 
 <!---
