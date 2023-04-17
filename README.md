@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Mohammed Faheem
 - 👀 I Love in Working in the Field of Artifical Intelligence and Machine Learning.
 - 👨‍🎓 I Completed Machine Learning Specialization on Coursera Offered by Stanford University and DeepLeaningAi.
-- I'm Currently Working On Own Language Model.
 - 💞️ I’m looking to work on Machine Learning/Deep Learning projects.
 - 📫 You can reach me via:
 - Email : immohammedfaheem@gmail.com
