@@ -1,13 +1,25 @@
-- 👋 Hi, I’m Mohammed Faheem
-- 👀 I Love in Working in the Field of Artifical Intelligence and Machine Learning.
-- 👨‍🎓 I Completed Machine Learning Specialization on Coursera Offered by Stanford University and DeepLeaningAi.
-- 💞️ I’m looking to work on Machine Learning/Deep Learning projects.
-- 📫 You can reach me via:
-- Email : immohammedfaheem@gmail.com
-- Linkedin : https://www.linkedin.com/in/thefaheem/
-- Twitter : https://twitter.com/Im__Faheem
+# Mohammed Faheem
 
-<!---
-ImMohammedFaheem/ImMohammedFaheem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Profile Image](https://your-profile-image-url.com)
+
+## Introduction
+
+👋 Hi, I'm Mohammed Faheem, an intermediate-level practitioner in the field of Machine Learning (ML) and Artificial Intelligence (AI). I have a solid understanding of the core concepts and techniques in ML and AI. I am constantly expanding my knowledge and learning new things daily to stay at the forefront of this rapidly evolving field.
+
+## Education and Certifications
+
+- 🎓 Machine Learning Specialization, Stanford University and DeepLearning.AI, Coursera
+
+## Interests and Expertise
+
+🔍 I have self-taught myself everything about AI and ML and I'm passionate about researching and applying AI techniques to solve real-world problems. My expertise lies in developing machine learning applications that leverage cutting-edge algorithms and data analysis techniques.
+
+💡 I enjoy exploring the latest advancements in the field and experimenting with new algorithms and frameworks. My goal is to contribute to the AI community by sharing my knowledge and collaborating on exciting projects.
+
+## Contact Information
+
+📧 Email: immohammedfaheem@gmail.com
+🔗 LinkedIn: [https://www.linkedin.com/in/thefaheem/](https://www.linkedin.com/in/thefaheem/)
+🐦 Twitter: [https://twitter.com/TheFaheem__](https://twitter.com/TheFaheem__)
+
+Feel free to reach out to me through any of the above channels. I'm always open to new connections, research collaborations, and exciting opportunities in the field of Artificial Intelligence and Machine Learning. Let's together create innovative machine learning applications and push the boundaries of what's possible!
