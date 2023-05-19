@@ -12,7 +12,7 @@
 
 🔍 I have self-taught myself everything about AI and ML, and I'm passionate about researching and applying Machine Learning techniques to solve real-world problems. I love developing ML applications that leverage cutting-edge techniques and state-of-the-art ML models.
 
-💡 I enjoy exploring the latest advancements in the field and experimenting with new algorithms and frameworks. My goal is to create something that utilizes advanced techniques, the latest findings/improvements in the field of AI, and SOTA models to help humanity live a better life. Already working on something :)
+💡 I enjoy exploring the latest advancements in the field and experimenting with new algorithms and frameworks. My goal is to create something that utilizes advanced techniques, latest findings/improvements in the field of AI, and SOTA models to help humanity live a better life. Already working on that something :)
 
 ## Contact Information
 
