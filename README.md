@@ -18,6 +18,6 @@
 
 - 📧 Email: immohammedfaheem@gmail.com  
 - 🔗 LinkedIn: [https://www.linkedin.com/in/thefaheem/](https://www.linkedin.com/in/thefaheem/)  
-- 🐦 Twitter: [https://twitter.com/TheFaheem__](https://twitter.com/TheFaheem__)
+- 🐦 Twitter: [https://twitter.com/TheFaheem__](https://twitter.com/faheem_nlp)
 
 Feel free to reach out to me through any of the above channels. I'm always open to new connections, research collaborations, and exciting opportunities in the field of Artificial Intelligence. Let's together create innovative machine learning applications and push the boundaries of what's possible!
