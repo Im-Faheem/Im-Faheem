@@ -2,7 +2,7 @@
 
 ## Introduction
 
-👋 Hi, I'm Mohammed Faheem, a Machine Learning Practitioner. I have a solid understanding of the core concepts and techniques in ML and AI. I am constantly expanding my knowledge and learning new things every day to stay at the forefront of this rapidly evolving field.
+👋 Hi, I'm Mohammed Faheem, Machine Learning Practitioner. I have a solid understanding of the core concepts and techniques in ML and AI. I am constantly expanding my knowledge and learning new things every day to stay at the forefront of this rapidly evolving field.
 
 ## Certifications
 
