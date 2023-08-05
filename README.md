@@ -18,15 +18,26 @@
 
 ## 🔍 Interests and Expertise
 
-I have self-taught myself everything about AI and ML, and I'm passionate about researching and applying Machine Learning techniques to solve real-world problems. I love developing ML applications that leverage cutting-edge techniques and state-of-the-art ML models.
+💡 I have self-taught myself everything about AI and ML, and I'm passionate about researching and applying Machine Learning techniques to solve real-world problems. I love developing ML applications that leverage cutting-edge techniques and state-of-the-art ML models.
 
-💡 I enjoy exploring the latest advancements in the field and experimenting with new algorithms and frameworks. My goal is to create something that utilizes advanced techniques, latest findings/improvements in the field of AI, and SOTA models to help humanity live a better life. Already working on that something :)
+I enjoy exploring the latest advancements in the field and experimenting with new algorithms and frameworks.
 
 🧠 My Expertise Includes:
-- Natural Language Processing (NLP)
+
 - Deep Learning
+    - Natural Language Processing (NLP)
+        - Transformers
+        - Recurrent Neural Networks (RNN)
+    - Computer Vision
+        - Convolutional Neural Networks (CNN)
+        - Vision Transformers (ViT)
 - Machine Learning
+    - Supervised Learning
+    - Unsupervised Learning
+    - Reinforcement Learning
 - Data cleaning
+    - Data Preprocessing
+    - Data Visualization
 
 ## 📞 Contact Information
 
@@ -34,4 +45,10 @@ I have self-taught myself everything about AI and ML, and I'm passionate about r
 - 🔗 [LinkedIn](https://www.linkedin.com/in/thefaheem/)  
 - 🐦 [Twitter](https://twitter.com/faheem_nlp)
 
-Feel free to reach out to me through any of the above channels. I'm always open to new connections, research collaborations, and exciting opportunities in the field of Artificial Intelligence. Let's together create innovative machine learning applications and push the boundaries of what's possible!
+Feel free to reach out to me through any of the above channels. I'm always open to new connections, research collaborations, and exciting opportunities in the field of Artificial Intelligence. Let we see, How I can 
+
+## 🚀 Open to Opportunities
+
+I am actively seeking opportunities as a Machine Learning Engineer/NLP Engineer. If you think my skills and expertise align with your organization's needs, I'd love to hear from you. Whether it's a full-time role, a project collaboration, or an internship, I'm open to exploring exciting opportunities in the field of AI and NLP.
+
+Please Feel free to reach out to me through any of the channels i mentioned above. I'm excited to contribute my knowledge and skills to innovative projects and make a meaningful impact in the world of ML and NLP.
