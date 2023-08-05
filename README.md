@@ -1,4 +1,4 @@
-<center><h1>About Me 👨‍💻</h1></center>
+# About Me 👨‍💻 
 
 ## 🌟 Introduction
 
@@ -25,7 +25,7 @@ You can check out my Certificates [Here](https://github.com/TheFaheem/TheFaheem/
 
 I enjoy exploring the latest advancements in the field and experimenting with new algorithms and frameworks.
 
-##🧠 My Expertise Includes:
+#### 🧠 My Expertise Includes:
 
 - Deep Learning
     - Natural Language Processing (NLP)
