@@ -16,7 +16,7 @@
     -  [Natural Language Processing with Sequence Models](https://www.coursera.org/learn/sequence-models-in-nlp?specialization=natural-language-processing)
     -  [Natural Language Processing with Attention Models](https://www.coursera.org/learn/attention-models-in-nlp?specialization=natural-language-processing)
  
-You can check out my Certificates Here => https://github.com/TheFaheem/TheFaheem/tree/71607cc88cfeb8c412b3814bbd6c9b0c1b2cba3e/Certificates
+You can check out my Certificates [Here](https://github.com/TheFaheem/TheFaheem/tree/71607cc88cfeb8c412b3814bbd6c9b0c1b2cba3e/Certificates) 
 
 ## 🔍 Interests and Expertise
 
