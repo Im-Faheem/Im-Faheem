@@ -29,11 +29,7 @@ I enjoy exploring the latest advancements in the field and experimenting with ne
 
 - Deep Learning
     - Natural Language Processing (NLP)
-        - Transformers
-        - Recurrent Neural Networks (RNN)
     - Computer Vision
-        - Convolutional Neural Networks (CNN)
-        - Vision Transformers (ViT)
 - Machine Learning
     - Supervised Learning
     - Unsupervised Learning
