@@ -44,10 +44,9 @@ I enjoy exploring the latest advancements in the field and experimenting with ne
 - 🔗 [LinkedIn](https://www.linkedin.com/in/thefaheem/)  
 - 🐦 [Twitter](https://twitter.com/faheem_nlp)
 
-Feel free to reach out to me through any of the above channels. I'm always open to new connections, research collaborations, and exciting opportunities in the field of Artificial Intelligence. Let we see, How I can 
 
 ## 🚀 Open to Opportunities
 
 I am actively seeking opportunities as a Machine Learning Engineer/NLP Engineer. If you think my skills and expertise align with your organization's needs, I'd love to hear from you. Whether it's a full-time role, a project collaboration, or an internship, I'm open to exploring exciting opportunities in the field of AI and NLP.
 
-Please Feel free to reach out to me through any of the channels i mentioned above. I'm excited to contribute my knowledge and skills to innovative projects and make a meaningful impact in the world of ML and NLP.
+Please Feel free to reach out to me through any of the channels i mentioned above. I'm excited to contribute my knowledge and skills to innovative projects and make a meaningful impact in the world of ML and NLP. Let's Connect and Explore, How I can bring value to you and your organisation :)
