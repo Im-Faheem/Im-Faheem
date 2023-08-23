@@ -40,7 +40,7 @@ I enjoy exploring the latest advancements in the field and experimenting with ne
 
 ## 📞 Contact Information
 
-- 📧 [Email](immohammedfaheem@gmail.com)  
+- 📧 [Email](mailto:immohammedfaheem@gmail.com)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/thefaheem/)  
 - 🐦 [Twitter](https://twitter.com/faheem_nlp)
 
