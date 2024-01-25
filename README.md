@@ -24,7 +24,7 @@
     -  [Advanced Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms?specialization=machine-learning-introduction)
     -  [Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning?specialization=machine-learning-introduction)
 
-    # Familiarized on Areas such as:
+    ### Familiarized on Areas such as:
      • Supervised Machine Learning
      • Advanced Learning Algorithms & NNs
      • Unsupervised Learning
@@ -38,7 +38,7 @@
     -  [Natural Language Processing with Sequence Models](https://www.coursera.org/learn/sequence-models-in-nlp?specialization=natural-language-processing)
     -  [Natural Language Processing with Attention Models](https://www.coursera.org/learn/attention-models-in-nlp?specialization=natural-language-processing)
 
-    # Gained in-depth knowledge on cutting-edge NLP techniques including:
+    ### Gained in-depth knowledge on cutting-edge NLP techniques including:
      • Classification
      • Probabilistic Models
      • Sequence Models
