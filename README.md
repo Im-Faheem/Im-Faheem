@@ -6,16 +6,16 @@
 
 ## 💪 Skills and Strengths:
 
-• Proficiency in Python
-• Natural Language Processing (NLP): Demonstrated skills in NLP techniques and applications.
-• Machine Learning (ML): Proven experience in applying ML algorithms to real-world problems.
-• Deep Learning Frameworks (e.g., PyTorch): Familiarized using PyTorch for developing advanced models and other applications.
-• Large Language Models (LLMs): In-depth knowledge and hands-on experience in constructing intricate models.
-• Big Data Analysis: Competent in handling and analyzing large scale datasets.
-• NoSQL Database: Experienced in working with NoSQL DBs like MongoDB, Redis, etc..
-• Data Preprocessing and Cleaning: Skilled in preparing and cleaning data for effective training and analysing.
-• Cloud Computing (e.g., AWS, Google Cloud): Proficient in utilizing cloud platforms for scalable solutions.
-• MLOps: Ensuring seamless model deployment and operations.
+- Proficiency in Python
+- Natural Language Processing (NLP): Demonstrated skills in NLP techniques and applications.
+- Machine Learning (ML): Proven experience in applying ML algorithms to real-world problems.
+- Deep Learning Frameworks (e.g., PyTorch): Familiarized using PyTorch for developing advanced models and other applications.
+- Large Language Models (LLMs): In-depth knowledge and hands-on experience in constructing intricate models.
+- Big Data Analysis: Competent in handling and analyzing large scale datasets.
+- NoSQL Database: Experienced in working with NoSQL DBs like MongoDB, Redis, etc..
+- Data Preprocessing and Cleaning: Skilled in preparing and cleaning data for effective training and analysing.
+- Cloud Computing (e.g., AWS, Google Cloud): Proficient in utilizing cloud platforms for scalable solutions.
+- MLOps: Ensuring seamless model deployment and operations.
 
 ## 🎓 Specializations:
 
@@ -25,12 +25,12 @@
     -  [Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning?specialization=machine-learning-introduction)
 
     ### Familiarized on Areas such as:
-     • Supervised Machine Learning
-     • Advanced Learning Algorithms & NNs
-     • Unsupervised Learning
-     • Recommenders System
-     • Anomaly Detection
-     • Reinforcement Learning
+     - Supervised Machine Learning
+     - Advanced Learning Algorithms & NNs
+     - Unsupervised Learning
+     - Recommenders System
+     - Anomaly Detection
+     - Reinforcement Learning
     
 -  [Natural Language Specialization, DeepLearning.AI.](https://www.coursera.org/specializations/natural-language-processing)
     -  [Natural Language Processing with Classification and Vector Spaces](https://www.coursera.org/learn/classification-vector-spaces-in-nlp?specialization=natural-language-processing)
@@ -39,10 +39,10 @@
     -  [Natural Language Processing with Attention Models](https://www.coursera.org/learn/attention-models-in-nlp?specialization=natural-language-processing)
 
     ### Gained in-depth knowledge on cutting-edge NLP techniques including:
-     • Classification
-     • Probabilistic Models
-     • Sequence Models
-     • Attention Models
+     - Classification
+     - Probabilistic Models
+     - Sequence Models
+     - Attention Models
 
 You can check out the credentials [here](https://github.com/TheFaheem/TheFaheem/tree/71607cc88cfeb8c412b3814bbd6c9b0c1b2cba3e/Certificates) 
 
