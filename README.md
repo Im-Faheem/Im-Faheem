@@ -6,16 +6,18 @@
 
 ## 💪 Skills and Strengths:
 
-- Proficiency in Python
-- Natural Language Processing (NLP): Demonstrated skills in NLP techniques and applications.
-- Machine Learning (ML): Proven experience in applying ML algorithms to real-world problems.
-- Deep Learning Frameworks (e.g., PyTorch): Familiarized using PyTorch for developing advanced models and other applications.
-- Large Language Models (LLMs): In-depth knowledge and hands-on experience in constructing intricate models.
-- Big Data Analysis: Competent in handling and analyzing large scale datasets.
-- NoSQL Database: Experienced in working with NoSQL DBs like MongoDB, Redis, etc..
-- Data Preprocessing and Cleaning: Skilled in preparing and cleaning data for effective training and analysing.
-- Cloud Computing (e.g., AWS, Google Cloud): Proficient in utilizing cloud platforms for scalable solutions.
-- MLOps: Ensuring seamless model deployment and operations.
+- **Proficiency in Python**
+- **Natural Language Processing (NLP):** Demonstrated skills in NLP techniques and applications.
+- **Machine Learning (ML):** Proven experience in applying ML algorithms to real-world problems.
+- **Deep Learning Frameworks (e.g., PyTorch):** Familiarized using PyTorch for developing advanced models and other applications.
+- **Large Language Models (LLMs):** In-depth knowledge and hands-on experience in constructing intricate models.
+- **Big Data Analysis:** Competent in handling and analyzing large scale datasets.
+- **NoSQL Database:** Experienced in working with NoSQL DBs like MongoDB, Redis, etc..
+- **Data Preprocessing and Cleaning:** Skilled in preparing and cleaning data for effective training and analysing.
+- **Cloud Computing (e.g., AWS, Google Cloud):** Proficient in utilizing cloud platforms for scalable solutions.
+- **MLOps:** Ensuring seamless model deployment and operations.
+- **REST APIs:** Skillful in developing and consuming RESTful APIs for seamless integration of systems and applications.
+
 
 ## 🎓 Specializations:
 
