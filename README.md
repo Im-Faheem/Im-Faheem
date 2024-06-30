@@ -25,14 +25,6 @@
     -  [Supervised Machine Learning: Regression and Classification](https://www.coursera.org/learn/machine-learning?specialization=machine-learning-introduction)
     -  [Advanced Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms?specialization=machine-learning-introduction)
     -  [Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning?specialization=machine-learning-introduction)
-
-    #### Familiarized on Areas such as:
-     - Supervised Machine Learning
-     - Advanced Learning Algorithms & NNs
-     - Unsupervised Learning
-     - Recommenders System
-     - Anomaly Detection
-     - Reinforcement Learning
     
 -  ### [Natural Language Specialization, DeepLearning.AI.](https://www.coursera.org/specializations/natural-language-processing)
     -  [Natural Language Processing with Classification and Vector Spaces](https://www.coursera.org/learn/classification-vector-spaces-in-nlp?specialization=natural-language-processing)
@@ -40,11 +32,6 @@
     -  [Natural Language Processing with Sequence Models](https://www.coursera.org/learn/sequence-models-in-nlp?specialization=natural-language-processing)
     -  [Natural Language Processing with Attention Models](https://www.coursera.org/learn/attention-models-in-nlp?specialization=natural-language-processing)
 
-    #### Gained in-depth knowledge on cutting-edge NLP techniques including:
-     - Classification
-     - Probabilistic Models
-     - Sequence Models
-     - Attention Models
 
 You can check out the credentials [here](https://github.com/TheFaheem/TheFaheem/tree/71607cc88cfeb8c412b3814bbd6c9b0c1b2cba3e/Certificates) 
 
